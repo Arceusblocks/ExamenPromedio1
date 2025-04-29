@@ -1,0 +1,7 @@
+D:\Visual studio\ExamenPromedio1\bin\Debug\ExamenPromedio1.exe.config
+D:\Visual studio\ExamenPromedio1\bin\Debug\ExamenPromedio1.exe
+D:\Visual studio\ExamenPromedio1\bin\Debug\ExamenPromedio1.pdb
+D:\Visual studio\ExamenPromedio1\obj\Debug\ExamenPromedio1.csproj.AssemblyReference.cache
+D:\Visual studio\ExamenPromedio1\obj\Debug\ExamenPromedio1.csproj.CoreCompileInputs.cache
+D:\Visual studio\ExamenPromedio1\obj\Debug\ExamenPromedio1.exe
+D:\Visual studio\ExamenPromedio1\obj\Debug\ExamenPromedio1.pdb
